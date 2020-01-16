@@ -1,0 +1,12 @@
+name = Pursuit of Dreams v2
+description = Bringing you the best from the Midwest in Progressive Trance; the one, the only...DJ Mark Nelson!
+core = 7.x
+
+stylesheets[all][] = assets/css/djmn.css
+
+regions[user_menu] = User Menu
+regions[main_menu] = Main Menu
+regions[content] = Content
+regions[sidebar_first] = Sidebar First
+regions[sidebar_second] = Sidebar Second
+regions[highlighted] = Highlighted
